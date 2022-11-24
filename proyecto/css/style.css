@@ -146,6 +146,15 @@ p {
     color: #fff;
 }
 
+.content_header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 60vh !important;
+    background:linear-gradient(rgba(0,0, 0, 0.5),  rgba(0,0, 0, 0.5)), url(../img/image3.png) no-repeat center;
+    background-size: cover;
+}
 @media (max-width: 768px) {
 
     .title {
