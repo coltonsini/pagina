@@ -192,7 +192,7 @@ hr{
     align-items: center;
 }
 
-.titulos_pagina{
+.titulos_paginas{
     font-size: 2rem;
 }
 
@@ -329,7 +329,7 @@ div.gallery {
     font-weight: 500;
 }
 
-.titulo{
+.titulos{
     background-color: rgba(251, 185, 89, 1);
     border-bottom: .1rem solid black 
 }
